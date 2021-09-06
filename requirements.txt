@@ -4,6 +4,7 @@ cffi==1.14.6
 charset-normalizer==2.0.4
 cryptography==3.4.8
 Django==3.2.7
+django-request-logging==0.7.3
 django-rest-framework==0.1.0
 django-rest-knox==4.1.0
 djangorestframework==3.12.4
